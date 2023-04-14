@@ -4,4 +4,4 @@ This project takes data from the world health organization on national suicide r
 
 ## Bokeh
 
-Bokeh is a python package that allows users to create interactive visualization that utilize an online server. You can find documentation on there website [here](https://www.google.com/search?q=bokeh+python&rlz=1C1UEAD_enUS970US970&sxsrf=APwXEdd5SZnZDAH372ci-3ELtPt3AESkCw%3A1681476967859&ei=Z005ZNGONKejptQP-Y2TuAQ&ved=0ahUKEwiR3vfqtan-AhWnkYkEHfnGBEcQ4dUDCBA&uact=5&oq=bokeh+python&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIKCAAQgAQQFBCHAjIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoKCAAQRxDWBBCwAzoLCC4QgAQQxwEQrwFKBAhBGABQ9wNY_AlgyQpoAXABeACAAVaIAYcEkgEBN5gBAKABAcgBCMABAQ&sclient=gws-wiz-serp).
+Bokeh is a python package that allows users to create interactive visualization that utilize an online server. You can find documentation on there website [here](https://bokeh.org/).
